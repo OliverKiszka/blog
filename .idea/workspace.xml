@@ -1,167 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a9011eb-34a4-4d75-bc16-5b910ff4925b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/blog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/del_post.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/CHANGELOG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/api.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/api_behv.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/api_core.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/api_misc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/api_repl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/api_root.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/api_rule.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/api_smiley.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/api_trim.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/api_wiki.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/app_class.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/app_css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/app_enhflags.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/app_example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/app_internals.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/app_rule.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/app_smiley.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/app_tagparams.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/bbc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/bbc_align.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/bbc_col.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/bbc_ctr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/bbc_link.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/bbc_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/bbc_repl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/bbc_text.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/external.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/install_req.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/install_unpack.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/intro_license.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/intro_over.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/intro_why.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/intro_whynbbc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/nbbc-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/shorttoc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/api.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/api_behv.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/api_core.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/api_misc.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/api_repl.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/api_root.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/api_rule.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/api_smiley.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/api_trim.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/api_wiki.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/app_class.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/app_css.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/app_enhflags.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/app_example.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/app_internals.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/app_rule.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/app_smiley.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/app_tagparams.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/bbc.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/bbc_align.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/bbc_col.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/bbc_ctr.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/bbc_link.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/bbc_list.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/bbc_repl.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/bbc_text.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/install_req.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/install_unpack.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/intro_license.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/intro_over.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/intro_why.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/intro_whynbbc.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/make-manual.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/template.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/toc.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/usage_add.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/usage_auto.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/usage_basic.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/usage_call.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/usage_css.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/usage_enh.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/usage_how.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/usage_html.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/usage_img.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/usage_limit.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/usage_smiley.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/src/usage_wiki.tpl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/usage_add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/usage_auto.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/usage_basic.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/usage_call.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/usage_css.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/usage_enh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/usage_how.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/usage_html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/usage_img.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/usage_limit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/usage_smiley.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/doc/usage_wiki.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/examples/full_example.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/examples/hello.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/examples/limit_example.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/examples/profile_test.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/examples/rss_example.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/examples/tag_callback.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/examples/tag_enhanced.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/examples/tag_simple.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/examples/template_example.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/nbbc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/powered_by_nbbc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/powered_by_nbbc_small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/readme.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/angry.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/anime.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/bigeyes.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/bigsmile.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/bigwink.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/blue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/boggle.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/confuse.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/cool.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/evil.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/frown.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/heart.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/irritated.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/laugh.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/lookleft.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/lookright.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/neutral.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/saint.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/sleepy.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/smile.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/smile3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/sneaky.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/star.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/surprise.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/sweatdrop.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/teeth.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/tongue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/wink.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/wink3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/smileys/worry.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/src/nbbc_email.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/src/nbbc_lex.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/src/nbbc_lib.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/src/nbbc_main.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/src/nbbc_parse.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/test_nbbc.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/tools/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/tools/collect_smileys.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nbbc/tools/merge.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/post.php" afterDir="false" />
+    <list default="true" id="9a9011eb-34a4-4d75-bc16-5b910ff4925b" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-php/del_post.php" beforeDir="false" afterPath="$PROJECT_DIR$/del_post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-php/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-php/post.php" beforeDir="false" afterPath="$PROJECT_DIR$/post.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog-php/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/test.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,6 +17,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="blog" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -186,6 +34,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Oliver\PhpstormProjects\Blog" />
+      <recent name="C:\Users\Oliver\PhpstormProjects\Blog\blog-php" />
+    </key>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -209,18 +64,100 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579281934119</updated>
-      <workItem from="1579281937178" duration="311000" />
+      <workItem from="1579281937178" duration="1968000" />
     </task>
+    <task id="LOCAL-00001" summary="php del post/index/post">
+      <created>1579282411276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579282411276</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test">
+      <created>1579282482947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579282482947</updated>
+    </task>
+    <task id="LOCAL-00003" summary="test">
+      <created>1579282956020</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579282956020</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <created>1579283726276</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579283726276</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="php del post/index/post" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="117" key="CommitChangelistDialog2" timestamp="1579282355812">
+    <state x="585" y="117" key="CommitChangelistDialog2" timestamp="1579284014333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579282355812" />
+    <state x="585" y="117" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1579284014333" />
+    <state x="794" y="444" key="NewPhpFileDialog" timestamp="1579282811053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="444" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579282811053" />
+    <state x="461" y="163" key="SettingsEditor" timestamp="1579283159768">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579283159768" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1579283754204">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1579283754204" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1579281946983">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
